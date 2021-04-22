@@ -1,1 +1,4 @@
-# ds-filukova-anastasia-1
+# Личный проект "Фрукты" 
+
+* Студент [Филюкова Анастасия] [http://t.me/Anastasia_Filukova]
+* Наставник [Симоненко Денис] [http://t.me/SantaX000]
